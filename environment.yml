@@ -1,0 +1,10 @@
+name: data-science
+dependencies:
+  - python
+  - pip
+  - ipykernel
+  - ipywidgets
+  - notebook
+  - tqdm
+  - numpy
+  - pandas
