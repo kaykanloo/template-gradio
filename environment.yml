@@ -1,4 +1,4 @@
-name: data-science
+name: gradio
 dependencies:
   - python
   - pip
@@ -8,3 +8,4 @@ dependencies:
   - tqdm
   - numpy
   - pandas
+  - gradio
